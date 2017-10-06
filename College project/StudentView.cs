@@ -45,7 +45,7 @@ namespace College_project
             conn.Close();
 
             conn.Open();
-            cmd.CommandText = "select Username, Grade, Subject, Description, AddedBy, Date from Grades where Username ='" + username + "'";
+            cmd.CommandText = "select Subject, Grade, Description, AddedBy, Date from Grades where Username ='" + username + "'";
             SqlDataAdapter adp = new SqlDataAdapter(cmd);
             DataTable dt = new DataTable();
             adp.Fill(dt);
