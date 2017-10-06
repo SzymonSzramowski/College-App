@@ -1,0 +1,14 @@
+C:\Users\Szymon\Desktop\College project\College project\College project\bin\Debug\College project.exe.config
+C:\Users\Szymon\Desktop\College project\College project\College project\bin\Debug\College project.exe
+C:\Users\Szymon\Desktop\College project\College project\College project\bin\Debug\College project.pdb
+C:\Users\Szymon\Desktop\College project\College project\College project\obj\Debug\College project.csprojResolveAssemblyReference.cache
+C:\Users\Szymon\Desktop\College project\College project\College project\obj\Debug\College_project.Properties.Resources.resources
+C:\Users\Szymon\Desktop\College project\College project\College project\obj\Debug\College project.csproj.GenerateResource.Cache
+C:\Users\Szymon\Desktop\College project\College project\College project\obj\Debug\College project.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\College project\College project\College project\obj\Debug\College project.exe
+C:\Users\Szymon\Desktop\College project\College project\College project\obj\Debug\College project.pdb
+C:\Users\Szymon\Desktop\College project\College project\College project\obj\Debug\College_project.LoginView.resources
+C:\Users\Szymon\Desktop\College project\College project\College project\obj\Debug\College_project.AdminView.resources
+C:\Users\Szymon\Desktop\College project\College project\College project\bin\Debug\projectDB.mdf
+C:\Users\Szymon\Desktop\College project\College project\College project\bin\Debug\projectDB_log.ldf
+C:\Users\Szymon\Desktop\College project\College project\College project\obj\Debug\College_project.StudentView.resources
