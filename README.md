@@ -7,9 +7,9 @@
 #3 Login with teacher or student account:
 
 # Teacher accounts:
-Login: Admin Password: pass
-Login: teacher1 Password: teacher1
+#Login: Admin Password: pass
+#Login: teacher1 Password: teacher1
 
 # Student accounts:
-Login: student1 Password: student1
-Login: student2 Password: student2
+#Login: student1 Password: student1
+#Login: student2 Password: student2
